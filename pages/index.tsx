@@ -37,6 +37,18 @@ const Home: NextPage = () => {
 				<title>Timer of 2022</title>
 				<meta name='description' content='Time remained in 2022 year' />
 				<link rel='icon' href='/icon.png' />
+				<meta name='twitter:card' content='summary_large_image' />
+				<meta name='twitter:site' content='@anil_dev31' />
+				<meta name='twitter:creator' content='@anil_dev31' />
+				<meta name='twitter:title' content='Timer of 2022' />
+				<meta
+					name='twitter:description'
+					content='Check out the remaining time in 2022'
+				/>
+				<meta
+					name='twitter:image'
+					content='https://raw.githubusercontent.com/jsgiant/Assets/master/timer.png'
+				/>
 			</Head>
 
 			<main className={styles.main}>
