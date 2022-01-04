@@ -39,6 +39,10 @@ To learn more about Next JS, take a look at the following resources:
 - [Next JS Documentation](https://nextjs.org/docs) - learn about Next JS features and API.
 - [Learn Next JS](https://nextjs.org/learn) - an interactive NextJS tutorial.
 
+
+## Credits
+
+- <a target="_blank" href="https://icons8.com/icon/118552/timer">Favicon</a> by <a target="_blank" href="https://icons8.com">Icons8</a>
 ## License
 
 ```

@@ -36,7 +36,7 @@ const Home: NextPage = () => {
 			<Head>
 				<title>Timer of 2022</title>
 				<meta name='description' content='Time remained in 2022 year' />
-				<link rel='icon' href='/favicon.ico' />
+				<link rel='icon' href='/icon.png' />
 			</Head>
 
 			<main className={styles.main}>
