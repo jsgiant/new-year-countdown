@@ -1,4 +1,4 @@
-# Timer of 2022
+# New Year Countdown
 
 A simple Next JS application that shows the remaining time until the end of the year.
 
